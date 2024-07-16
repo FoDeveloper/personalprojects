@@ -94,8 +94,6 @@ p.minor {
 .about p {
     font-size: 18px;
     color: #e5e7eb;
-    display: flex;
-    gap: 2px;
 }
 
 .pics {
